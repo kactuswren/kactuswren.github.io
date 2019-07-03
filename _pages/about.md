@@ -10,7 +10,7 @@ redirect_from:
 
 My research focus is on **doublet craters**, and what they can tell us about **binary asteroids** in the solar system. Currently, I am looking at the fairly new datasets from the Dawn mission to Vesta and Ceres. I am hoping the impact cratering record on these large asteroids can shed light on the binary asteroid populations in the Main Belt, and possibly reveal (or not) whether the number of widely-separated binaries has changed over time.
 
-![Doublet crater on 4 Vesta. Credit: NASA/JPL](http://kactuswren.github.io/images/Vesta_doublet.jpg)
+![Doublet crater on 4 Vesta. Credit: NASA/JPL](http://kactuswren.github.io/images/Vesta_doublet.jpeg)
 <br><sub><sup>Doublet crater on 4 Vesta. Credit: NASA/JPL</sup></sub>
 
 I also am a developer of the open-source planetary GIS application [JMARS](http://jmars.mars.asu.edu) (**J**ava **M**ission-planning and **A**nalysis for **R**emote **S**ensing). I have spent most of my time building and enhancing a custom science-planning layer in JMARS for the OSIRIS-REx sample return mission currently visiting the near-Earth asteroid Bennu.
