@@ -83,8 +83,8 @@ author:
   name             : "Paul Wren"
   avatar           : "profile.png"
   bio              : "Researcher and Developer at the Mars Space Flight Facility"
-  location         : "Arizona State University, Tempe, AZ"
-  employer         : 
+  location         : 
+  employer         : "Arizona State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Pln66Q8AAAAJ&hl=en"
   email            : "paul.wren@asu.edu"
