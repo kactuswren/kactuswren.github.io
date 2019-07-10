@@ -2,13 +2,14 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-fall-teaching-1
+venue: "Chandler-Gilbert College, Physical Sciences and Engineering"
+date: 2019-08-19
+location: "Chandler, AZ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+AST 101  Survey of Astronomy
+AST 102  Survey of Astronomy Lab
 
 Heading 1
 ======
