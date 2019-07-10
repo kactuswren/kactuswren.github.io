@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "AST 111 Introduction to Solar System Astronomy"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2019-spring-teaching-1
+venue: "Chandler-Gilbert COllege, Physical Sciences and Engineering"
+date: 2019-01-20
+location: "Chandler, AZ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Astronomy for the non-science major. The scientific method, properties of light, astronomical instruments, our Solar System and solar systems around other stars. Included hands-on astronomical observations and laboratory exercises.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
