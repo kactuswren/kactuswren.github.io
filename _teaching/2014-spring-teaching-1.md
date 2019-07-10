@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "AST 101/102 Survey of Astronomy & Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-1
@@ -8,14 +8,4 @@ date: 2019-08-19
 location: "Chandler, AZ"
 ---
 
-AST 101  Survey of Astronomy
-AST 102  Survey of Astronomy Lab
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Introduction to astronomy covering solar system, stars and galaxies, extra-solar planets, and robotic space exploration. 
